@@ -1,5 +1,5 @@
-# NoFT
-
+### [ottomated](https://www.twitch.tv/ottomated) 
+# NoFT 
 Automatically block all NFT profile pictures on twitter
 
 ## Development
